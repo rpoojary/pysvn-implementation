@@ -1,5 +1,4 @@
 import pysvn 
-import re 
 import argparse
 
 def set_default_username(username):
